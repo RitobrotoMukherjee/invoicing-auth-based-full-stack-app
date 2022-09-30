@@ -1,17 +1,16 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
+![](https://img.shields.io/badge/Ritobroto-Mukherjee-blueviolet?labelColor=yellow)
 
-# Project Name
+# MERN Invoicing
 
-> Description the project.
+>  A MERN stack application. It's a simple auth based invoicing app, with 2 simple pages:- 1. Login and 2. List Invoice. User creation can only be done by **super admin**. Only **super admin** can see the **user's list**. Respective user can manage their respective set of Invoices through their dashboard.
 
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- MERN stack
+- Vercel for deployment
 
-## Live Demo (if available)
+## Live Demo (if available 😉)
 
 [Live Demo Link](https://livedemo.com)
 
