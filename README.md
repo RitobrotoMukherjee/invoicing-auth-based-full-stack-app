@@ -2,12 +2,12 @@
 
 # MERN Invoicing
 
->  A MERN stack application. It's a simple auth based invoicing app, with 2 simple pages:- 1. Login and 2. List Invoice. User creation can only be done by **super admin**. Only **super admin** can see the **user's list**. Respective user can manage their respective set of Invoices through their dashboard.
+>  A MEAN stack application. It's a simple auth based invoicing app, with 2 simple pages:- 1. Login and 2. List Invoice. User creation can only be done by **super admin**. Only **super admin** can see the **user's list**. Respective user can manage their respective set of Invoices through their dashboard.
 
 
 ## Built With
 
-- MERN stack
+- MEAN stack
 - Vercel for deployment
 
 ## Live Demo (if available 😉)
